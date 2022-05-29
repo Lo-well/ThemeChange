@@ -3,7 +3,6 @@
   src: local('JetBrainsMono Nerd Font'), url('https://rawgit.com/ryanoasis/nerd-fonts/master/patched-fonts/JetBrainsMono/Ligatures/Regular/complete/JetBrains%20Mono%20Regular%20Nerd%20Font%20Complete.ttf') format('truetype');
 }
 
-
 :root {
   --font-primary: 'JetBrainsMono Nerd Font';
   --font-code: 'JetBrainsMono Nerd Font';
